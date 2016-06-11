@@ -197,22 +197,19 @@
                 
                 <div class="grid_3 alpha">
                 <!--featured-teaser-->
-                <div class="featured-teaser">
-                <div class="featured-teaser-image"><a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/ft-img1.png"/></a></div>
-                <div class="featured-teaser-title">Monaco restaurants</div>
-                <div class="featured-teaser-body">25</div>
-                </div>
-                <!--EOF:featured-teaser-->
+               
                 
                 <!--featured-teaser-->
+				 <!--
                 <div class="featured-teaser">
                 <div class="featured-teaser-image"><a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/ft-img2.png"/></a></div>
                 <div class="featured-teaser-title">Wine & Meat</div>
                 <div class="featured-teaser-body">25</div>
                 </div>
-                <!--EOF:featured-teaser-->
+               EOF:featured-teaser-->
                 
                 <!--featured-teaser-->
+				<!--
                 <div class="featured-teaser">
                 <div class="featured-teaser-image"><a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/ft-img3.png"/></a></div>
                 <div class="featured-teaser-title">Reiner</div>
@@ -223,43 +220,44 @@
                 <div class="featured-teaser-title">Carlos</div>
                 <div class="featured-teaser-body">25</div>
                 </div> 
-                <!--EOF:featured-teaser-->
+                EOF:featured-teaser-->
                 </div>
                 
                 <div class="grid_6">
-                <!--featured-->
+                
                 <div class="featured">
                 <div class="featured-image"><a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/ft-img.png"/></a></div>
                 <div class="featured-title"><h2><a href="#">The spirit of Italy</a> <span class="comments">12</span></h2></div>
                 <div class="featured-body">Italian wine is wine produced in Italy, a country which is home to some of the oldest wine-producing regions in the world. Italy is one of the world's foremost producers, responsible for approximately one-fifth of world wine production in 2005.</div>
                 </div>
-                <!--EOF:featured-->
+                
                 </div>
                 
                 <div class="grid_3 omega">
                 <!--featured-teaser-->
-                <div class="featured-teaser">
+                <!--<div class="featured-teaser">
                 <div class="featured-teaser-image"><a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/ft-img4.png"/></a></div>
                 <div class="featured-teaser-title">Cheese</div>
                 <div class="featured-teaser-body">25</div>
                 </div>
-                <!--EOF:featured-teaser-->
+                EOF:featured-teaser-->
                 
                 <!--featured-teaser-->
-                <div class="featured-teaser">  
+                <!--<div class="featured-teaser">  
                 <div class="featured-teaser-image"><a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/ft-img5.png"/></a></div>
                 <div class="featured-teaser-title">Red wine</div>
                 <div class="featured-teaser-body">25</div>
                 </div>  
-                <!--EOF:featured-teaser-->
+                EOF:featured-teaser-->
                 
                 <!--featured-teaser-->
+				<!--
                 <div class="featured-teaser">  
                 <div class="featured-teaser-image"><a href="#"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/ft-img6.png"/></a></div>
                 <div class="featured-teaser-title">The best in the world</div>
                 <div class="featured-teaser-body">25</div>
                 </div>  
-                <!--EOF:featured-teaser-->
+                -->
                 </div>   
                 
                 </div>
