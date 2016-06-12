@@ -116,15 +116,15 @@
 <div class="slides">
 <!--slider-item-->
 <div class="slider-item">
-<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/slider-img1.png"/></div>
-<div class="slider-item-title">Corked Screwer</div>
-<div class="slider-item-body">Unique resource for wine lovers</div>
+<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/hogar1.jpg"/></div>
+<div class="slider-item-title">Ester Lopéz</div>
+<div class="slider-item-body">La Verde del Grup</div>
 </div>
 <!--EOF:slider-item-->
 
 <!--slider-item-->
 <div class="slider-item">
-<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/slider-img1.png"/></div>
+<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/hogar2.jpg"/></div>
 <div class="slider-item-title light">Wine Lovers </div>
 <div class="slider-item-body">Monaco restaurants</div>
 </div>
@@ -132,7 +132,7 @@
 
 <!--slider-item-->
 <div class="slider-item">
-<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/slider-img1.png"/></div>
+<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/hogar3.jpg"/></div>
 <div class="slider-item-title light">Best Blog</div>
 <div class="slider-item-body">Best wine ideas</div>
 </div>
@@ -140,7 +140,7 @@
 
 <!--slider-item-->
 <div class="slider-item">
-<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/slider-img1.png"/></div>
+<div class="slider-item-image"><img src="<?php print base_path() . drupal_get_path('theme', 'corkedscrewer') ;?>/images/local/hogar4.jpg"/></div>
 <div class="slider-item-title">Wine Lovers </div>
 <div class="slider-item-body">Monaco restaurants</div>
 </div>
